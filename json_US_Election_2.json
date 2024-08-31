@@ -1,0 +1,16 @@
+{
+  "result": "success",
+  "base_title": "US Elections 2024",
+  "party_name": {
+    "NAME1": "Demoncratic",
+    "NAME2": "Republican"
+  },
+  "First_votes": {
+    "F_Demoncratic": 26,
+    "F_Republican": 22
+  },
+  "Update_votes": {
+    "U_Demoncratic": 53,
+    "U_Republican": 47
+  }
+}
