@@ -1,0 +1,19 @@
+{
+  "result": "success",
+  "base_title": "HKJC",
+  "Team_name": {
+    "NAME": "呂建成/潘頓"
+  },
+  "First_data": {
+    "F_first": 5,
+    "F_second": 4,
+    "F_third": 3,
+    "F_fourth": 2
+  },
+  "Update_data": {
+    "F_first": 9,
+    "F_second": 7,
+    "F_third": 5,
+    "F_fourth": 4
+  }
+}
