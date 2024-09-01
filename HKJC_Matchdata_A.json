@@ -2,7 +2,8 @@
   "result": "success",
   "base_title": "HKJC",
   "Team_name": {
-    "NAME": "呂建成/潘頓"
+    "NAME": "呂建成/潘頓",
+    "Team": "Team1"
   },
   "First_data": {
     "F_first": 5,
