@@ -1,0 +1,19 @@
+{
+  "result": "success",
+  "base_title": "HKJC",
+  "Team_name": {
+    "NAME": "方嘉柏／布文"
+  },
+  "First_data": {
+    "F_first": 2,
+    "F_second": 1,
+    "F_third": 4,
+    "F_fourth": 4
+  },
+  "Update_data": {
+    "F_first": 5,
+    "F_second": 3,
+    "F_third": 7,
+    "F_fourth": 6
+  }
+}
