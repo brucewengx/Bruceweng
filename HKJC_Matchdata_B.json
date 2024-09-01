@@ -2,7 +2,8 @@
   "result": "success",
   "base_title": "HKJC",
   "Team_name": {
-    "NAME": "方嘉柏/布文"
+    "NAME": "方嘉柏/布文",
+    "Team": "Team1"
   },
   "First_data": {
     "F_first": 2,
