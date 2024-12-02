@@ -1,0 +1,12 @@
+{
+  "result": "success",
+  "base_title": "USELECTION_MAP",
+  "First_data": {
+    "D_first": 10,
+    "R_first": 12
+  },
+  "Update_data": {
+    "D_first": 24,
+    "R_second": 22
+  }
+}
