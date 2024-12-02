@@ -1,0 +1,18 @@
+{
+  "result": "success",
+  "base_title": "USELECTION",
+  "Party_name": {
+    "NAME1": "Demoncratic",
+    "Candidate1": "BIDEN",
+    "NAME2": "Republican",
+    "Candidate2": "Trump"
+  },
+  "First_data": {
+    "D_first": 5,
+    "R_first": 7
+  },
+  "Update_data": {
+    "D_first": 20,
+    "R_second": 25
+  }
+}
