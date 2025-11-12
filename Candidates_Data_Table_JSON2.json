@@ -1,18 +1,22 @@
 {
   "result": "success",
-  "base_title": "USELECTION",
-  "Party_name": {
-    "NAME1": "Demoncratic",
-    "Candidate1": "Harris",
-    "NAME2": "Republican",
-    "Candidate2": "Trump"
+  "base_title": "Loaddata",
+  "Name": {
+    "1": "大番薯",
+    "2": "天分高",
+    "3": "魔法速遞",
+    "4": "威威父子"
   },
-  "First_data": {
-    "D_first": 20,
-    "R_first": 25
+  "Num": {
+    "1": 4,
+    "2": 11,
+    "3": 3,
+    "4": 4
   },
-  "Update_data": {
-    "D_second": 42,
-    "R_second": 58
+  "Silk": {
+    "1": J383,
+    "2": H046,
+    "3": H290,
+    "4": H419
   }
 }
